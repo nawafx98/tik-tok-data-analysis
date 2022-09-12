@@ -5,4 +5,6 @@ dataset : https://www.kaggle.com/datasets/shivamb/35-million-tiktok-mobile-app-r
 
 I used only first 200 rows of each month as sample
 
+Tableau : https://public.tableau.com/app/profile/nawaf.binsaad/viz/tiktokanalysis/Dashboard1
+
 feel free to give a feedback
